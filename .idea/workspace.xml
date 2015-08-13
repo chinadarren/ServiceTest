@@ -27,6 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6199a6d7-08fd-44be-ae53-af7c9d070514" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ServiceTest.iws" />
@@ -88,8 +89,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43640897">
-              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.6234414">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
               <folding>
                 <element signature="e#297#315#0" expanded="true" />
                 <element signature="e#430#448#0" expanded="true" />
@@ -134,8 +135,8 @@
         <option value="$PROJECT_DIR$/src/com/example/ServiceTest/MySerivce.java" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/src/com/example/ServiceTest/MyActivity.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/example/ServiceTest/MyIntentService.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -563,7 +564,7 @@
       <workItem from="1439428640590" duration="5584000" />
       <workItem from="1439436802221" duration="125000" />
       <workItem from="1439437303151" duration="108000" />
-      <workItem from="1439450786648" duration="5540000" />
+      <workItem from="1439450786648" duration="5584000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1439401875685</created>
@@ -589,11 +590,17 @@
       <option name="project" value="LOCAL" />
       <updated>1439467751042</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="s">
+      <created>1439478777137</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1439478777137</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15944000" />
+    <option name="totallyTimeSpent" value="15988000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -871,8 +878,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43640897">
-          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.6234414">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding>
             <element signature="e#297#315#0" expanded="true" />
             <element signature="e#430#448#0" expanded="true" />
