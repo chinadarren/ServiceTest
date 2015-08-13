@@ -46,6 +46,13 @@ public class MySerivce extends Service {
 
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
+        //开启子线程
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                //处理具体逻辑
+            }
+        }).start();
         Log.d("MyService", "onStartCommand executed");
 
         return super.onStartCommand(intent, flags, startId);

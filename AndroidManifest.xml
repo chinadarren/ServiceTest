@@ -13,5 +13,6 @@
             </intent-filter>
         </activity>
         <service android:name=".MySerivce"/>
+        <service android:name="com.example.ServiceTest.MyIntentService"/>
     </application>
 </manifest>
