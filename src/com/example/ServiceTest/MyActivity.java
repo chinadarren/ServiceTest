@@ -19,10 +19,12 @@ public class MyActivity extends Activity implements View.OnClickListener {
     private Button unbindService;
 
     private MySerivce.DownloadBinder downloadBinder;
-
+//ServiceConnection匿名类
     private ServiceConnection connection = new ServiceConnection() {
+    //活动与服务绑定的业务
         @Override
         public void onServiceConnected(ComponentName name, IBinder service) {
+            //向下转型得到DownloadBinder实力
             downloadBinder = (MySerivce.DownloadBinder) service;
             downloadBinder.startDownload();
             downloadBinder.getProgress();
@@ -62,6 +64,8 @@ public class MyActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.bind_service:
                 Intent bindIntent = new Intent(this,MySerivce.class);
+                //调用bindService方法将MyActivity和MyService进行绑定
+                //第一个参数Intent对象，第二个参数ServiceConnection的实例，第三个参数标志位
                 //BIND_AUTO_CREATE 表示在活动和服务进行绑定后自动创建服务
                 bindService(bindIntent,connection,BIND_AUTO_CREATE);//绑定服务
                 break;
