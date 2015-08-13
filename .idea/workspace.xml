@@ -88,8 +88,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49875313">
-              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.43640897">
+              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
               <folding>
                 <element signature="e#297#315#0" expanded="true" />
                 <element signature="e#430#448#0" expanded="true" />
@@ -563,7 +563,7 @@
       <workItem from="1439428640590" duration="5584000" />
       <workItem from="1439436802221" duration="125000" />
       <workItem from="1439437303151" duration="108000" />
-      <workItem from="1439450786648" duration="4716000" />
+      <workItem from="1439450786648" duration="5540000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1439401875685</created>
@@ -583,11 +583,17 @@
       <option name="project" value="LOCAL" />
       <updated>1439455208035</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="s">
+      <created>1439467751042</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1439467751042</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15120000" />
+    <option name="totallyTimeSpent" value="15944000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -865,8 +871,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49875313">
-          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.43640897">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
           <folding>
             <element signature="e#297#315#0" expanded="true" />
             <element signature="e#430#448#0" expanded="true" />
